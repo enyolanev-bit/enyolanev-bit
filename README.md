@@ -1,7 +1,5 @@
 **Nevil Enyola**
-
-field service engineer · 
-
+ 
 paris · île-de-france
 
 → [enyolanev-bit.github.io](https://enyolanev-bit.github.io)
